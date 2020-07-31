@@ -1,15 +1,15 @@
-### Salve!
+### Salve! Sou o Grilo.
 
-Meu nome é Emerson Cesconetto, mas meus brothers me chamam de Grilo; sou de Curitiba e sou um entusisata de tecnologia e amante do conhecimento. 
+Meu nome é Emerson Cesconetto, mas muitos me chamam de Grilo; moro em Curitiba e sou entusisata de tecnologia, amante do conhecimento e uma tentativa de educador. 
 
-Fiz curso técnico no saudoso CEFET de Medianeira e me mudei pra Curitiba nos anos 90 pra trabalhar e estudar, fiz Engenharia de Controle e Automação e depois uma especialização em Engenharia de Software.
-Atualmente trabalho com automação industrial, mas estudo diariamente temas ligados à tecnologia e ainda pretendo trabalhar nessa área de tecnologia fora da indústria.
+Desde que conheci tecnologia, ainda no curso técnico do saudoso CEFET de Medianeira, não consegui mais ficar longe, estudei engenharia e estudo programação à noite, por conta, porque adoro.
 
 Gosto muito de ler, assistir jogos de basquete (já joguei, mas hoje não rola mais) estudar e ouvir música. 
-Gosto muito de conversas profunda com pessoas inteligentes, mas às vezes só de compartilhar o silêncio.
+Gosto muito de conversas profunda com pessoas inteligentes, e às vezes só de compartilhar o silêncio.
 Água, café e vinho.
 
-Se quiser dar uma olhada no meu curriculum mais formal tá aqui no [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersoncesconetto)](https://www.linkedin.com/in/emersoncesconetto)
+Se quiser dar uma olhada no meu curriculum mais formal: 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersoncesconetto)](https://www.linkedin.com/in/emersoncesconetto)
 
 valeu!
 <!--
