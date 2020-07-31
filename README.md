@@ -8,7 +8,8 @@ Gosto muito de ler, assistir jogos de basquete (já joguei, mas hoje não rola m
 Gosto muito de conversas profunda com pessoas inteligentes, e às vezes só de compartilhar o silêncio.
 Água, café e vinho.
 
-Se quiser dar uma olhada no meu curriculum mais formal: 
+Se quiser dar uma olhada no meu curriculum mais formal:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersoncesconetto)](https://www.linkedin.com/in/emersoncesconetto)
 
 valeu!
