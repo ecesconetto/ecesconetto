@@ -1,12 +1,10 @@
 ### Olá, tudo bem! Sou o Grilo.
 
-Meu nome é Emerson Cesconetto, mas muitos me chamam de Grilo; moro em Curitiba e sou entusisata de tecnologia, amante do conhecimento e uma tentativa de educador.
-
-Desde que conheci tecnologia, ainda no curso técnico do CEFET de Medianeira, não consegui mais ficar longe, estudei engenharia e estudo programação porque adoro.
+Meu nome é Emerson Cesconetto, mas muitos me chamam de Grilo; moro em Curitiba e sou entusisata de tecnologia, amante do conhecimento e educador voluntário.
 
 Gosto muito de ler, assistir jogos de basquete (já joguei, mas hoje não rola mais), estudar e ouvir música.
 
-Gosto muito de conversas profunda com pessoas inteligentes, e às vezes só de compartilhar o silêncio.
+Gosto ainda mais de conversas profunda com pessoas inteligentes, e às vezes só de compartilhar o silêncio.
 
 Água, café e vinho.
 
