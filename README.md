@@ -1,11 +1,12 @@
 ### Olá, tudo bem! Sou o Grilo.
-### 
 
-Meu nome é Emerson Cesconetto, mas muitos me chamam de Grilo; sou engenheiro; curioso e entusiasta de tecnologia; amante do conhecimento e uma tentativa de educador.
+Meu nome é Emerson Cesconetto, mas muitos me chamam de Grilo. Sou engenheiro e curioso por natureza; entusiasta de tecnologia e apaixonado pelo conhecimento.
 
-Gosto muito de ler, estudar, ouvir música e assistir basquete (já joguei, mas hoje não rola mais).
+Estudo programação (atualmente mais na área de frontend) e também Scrum e Agile para tentar uma certificação em breve.
 
-Gosto das conversas profundas com pessoas inteligentes, e às vezes só de compartilhar o silêncio.
+Acredito que a educação é transformadora e por isso sou voluntário no Movimento Escoteiro.
+
+Gosto de cozinhar, ler e ouvir música... das conversas profundas com pessoas inteligentes, e às vezes só de compartilhar o silêncio.
 
 Água, café e vinho.
 
