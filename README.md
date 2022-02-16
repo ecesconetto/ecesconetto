@@ -4,13 +4,11 @@ Meu nome é Emerson Cesconetto, mas muitos me chamam de Grilo. Sou Engenheiro de
 
 Estudo programação (principalmente usando JavaScript), FOSS e também Scrum e Agile para tentar uma certificação em breve.
 
-Acredito que a educação é transformadora e por isso sou voluntário no Movimento Escoteiro.
+Acredito que a educação é transformadora e por isso sou voluntário no [Movimento Escoteiro](https://www.escoteiros.org.br).
 
 Gosto de cozinhar, ler e ouvir música... das conversas profundas com pessoas inteligentes, e às vezes só de compartilhar o silêncio.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersoncesconetto)](https://www.linkedin.com/in/emersoncesconetto)
-
- [![Scouts Badge](https://img.shields.io/badge/-Escoteiros-lightgreen?style=flat-square)](https://www.escoteiros.org.br)
 
 
 valeu!
