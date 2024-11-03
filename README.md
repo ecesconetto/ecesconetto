@@ -1,17 +1,15 @@
 ### Olá, tudo bem! Sou o Grilo.
 
-Meu nome é Emerson Cesconetto, mas muitos me chamam de Grilo. Sou Engenheiro de Controle e Automação mas trambém fiz uma especialização em Engenharia de Software. Sou curioso por natureza; entusiasta de tecnologia e apaixonado pelo conhecimento.
+Meu nome é Emerson Cesconetto, mas muitos me chamam de Grilo. Sou Engenheiro de Controle e Automação e trabalho com automação industrial, e trambém fiz uma especialização em Engenharia de Software. Sou curioso por natureza; entusiasta de tecnologia e apaixonado pelo conhecimento.
 
-Estudo programação (principalmente usando JavaScript), FOSS e também Scrum e Agile para tentar uma certificação em breve.
-
-Acredito que a educação é transformadora e por isso sou voluntário no [Movimento Escoteiro](https://www.escoteiros.org.br).
+Gosto de estudar e aprender coisas novas. Acredito que a educação é transformadora e por isso sou voluntário no [Movimento Escoteiro](https://www.escoteiros.org.br).
 
 Gosto de cozinhar, ler e ouvir música... das conversas profundas com pessoas inteligentes, e às vezes só de compartilhar o silêncio.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersoncesconetto)](https://www.linkedin.com/in/emersoncesconetto)
 
 
-valeu!
+Valeu!
 <!--
 **ecesconetto/ecesconetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
